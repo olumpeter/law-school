@@ -1348,3 +1348,455 @@ Not merely to produce graduates who know the law.
 
 But to form professionals in whom others may confidently place their
 trust.
+
+## The Purpose of Law School
+
+Every year, thousands of students enter law school with a similar
+question.
+
+How do I become a lawyer?
+
+The question is natural.
+
+It is also incomplete.
+
+A more important question is seldom asked.
+
+What is law school trying to accomplish?
+
+Many students answer this question by pointing to examinations,
+assignments, and graduation.
+
+These are visible milestones.
+
+They are not the ultimate purpose of legal education.
+
+Examinations measure learning.
+
+They do not define it.
+
+Degrees recognize achievement.
+
+They do not complete formation.
+
+Professional admission authorizes practice.
+
+It does not guarantee wisdom.
+
+Law school exists for a deeper purpose.
+
+Its task is not merely to prepare students for their first day in legal
+practice.
+
+Its task is to prepare them for every day that follows.
+
+This explains why legal education places such demanding expectations
+upon its students.
+
+Cases are assigned not simply to increase legal knowledge, but to
+cultivate disciplined reasoning.
+
+Essays are written not merely to demonstrate learning, but to develop
+clear thinking.
+
+Moot courts are conducted not merely to improve public speaking, but to
+train careful advocacy.
+
+Research projects are undertaken not merely to locate authorities, but
+to cultivate intellectual independence.
+
+Each activity contributes something to the gradual formation of the
+lawyer.
+
+Students often ask whether a particular topic will appear in an
+examination.
+
+The better question is whether that topic contributes to the development
+of professional judgment.
+
+The first question concerns academic success.
+
+The second concerns professional formation.
+
+The distinction is significant.
+
+Much of what proves valuable in legal practice cannot be measured by a
+written examination.
+
+Patience cannot be examined easily.
+
+Integrity cannot be graded precisely.
+
+Judgment cannot be reduced to a series of multiple-choice questions.
+
+Yet these qualities often distinguish the exceptional lawyer from the
+merely competent one.
+
+The student who understands the true purpose of law school studies
+differently.
+
+The student no longer asks only,
+
+"What must I know?"
+
+The student also asks,
+
+"What kind of lawyer is this subject helping me become?"
+
+Every lecture.
+
+Every tutorial.
+
+Every case.
+
+Every assignment.
+
+Every conversation.
+
+Becomes part of a larger process of professional formation.
+
+The years spent in law school therefore deserve to be viewed as more
+than academic preparation.
+
+They are years in which habits are established, standards are formed,
+and ways of thinking are cultivated that may influence an entire
+professional life.
+
+The greatest achievement of legal education is not that the student
+graduates knowing more law than before.
+
+Its greatest achievement is that the student leaves possessing the
+capacity to continue learning, reasoning, and exercising sound judgment
+throughout a lifetime in the law.
+
+## Becoming a Student of the Law
+
+The first responsibility of a law student is not to master the law.
+
+It is to become a serious student.
+
+This distinction deserves careful attention.
+
+The study of law differs from many other forms of education.
+
+The volume of reading is substantial.
+
+The questions are rarely answered by simple memorization.
+
+Reasonable disagreement is common.
+
+Progress often appears slower than expected.
+
+Students who approach legal education with the habits that served them
+well in earlier stages of education may therefore experience unexpected
+difficulty.
+
+Law school demands new habits.
+
+It demands disciplined reading.
+
+Careful note-taking.
+
+Thoughtful reflection.
+
+Consistent revision.
+
+Patient analysis.
+
+These habits are not developed in a single semester.
+
+They are cultivated gradually through daily practice.
+
+For this reason, the thoughtful student pays as much attention to the
+process of learning as to the content being learned.
+
+Every hour of study presents two opportunities.
+
+The first is to understand the subject under consideration.
+
+The second is to improve the manner in which one studies.
+
+Both opportunities deserve equal attention.
+
+A student who learns Constitutional Law while becoming a more disciplined
+learner has achieved more than a student who has merely completed another
+course.
+
+Knowledge acquired during law school will continue to grow throughout a
+professional career.
+
+The habits by which that knowledge is acquired will determine the rate
+at which that growth continues.
+
+The successful student therefore resists the temptation to study only
+when examinations approach.
+
+Learning is not an event.
+
+It is a discipline.
+
+Regular study accomplishes more than irregular intensity.
+
+An hour devoted to careful reading each day often contributes more to
+lasting understanding than an entire day spent hurriedly preparing for an
+examination.
+
+This principle extends beyond the classroom.
+
+The thoughtful student develops a personal system for learning.
+
+Important ideas are recorded.
+
+Questions are written down.
+
+Cases are revisited.
+
+Earlier conclusions are reconsidered in light of new understanding.
+
+Knowledge is not merely accumulated.
+
+It is organized.
+
+Connected.
+
+Reviewed.
+
+Refined.
+
+Gradually, study itself becomes a habit rather than an obligation.
+
+The student no longer studies because attendance is required.
+
+Nor because an examination is approaching.
+
+The student studies because learning has become part of professional
+identity.
+
+This transformation marks one of the quiet achievements of legal
+education.
+
+The individual who entered law school intending to obtain a degree begins
+to leave it possessing something far more valuable.
+
+The habits of a lifelong student.
+
+Those habits will remain long after individual cases have been forgotten,
+statutes have been amended, and examinations have passed.
+
+They become the enduring foundation upon which every future stage of
+professional growth is built.
+
+## The Habit of Reflection
+
+Learning does not end when the book is closed.
+
+Nor does understanding end when the lecture concludes.
+
+Knowledge matures through reflection.
+
+This truth is easily overlooked.
+
+The demands of legal education often encourage continual movement from
+one subject to the next.
+
+A lecture is followed by another lecture.
+
+One assignment gives way to the next.
+
+One case is replaced by another.
+
+The student who never pauses to reflect may cover considerable ground
+without fully understanding where the journey has led.
+
+Reflection transforms experience into understanding.
+
+It asks questions that hurried study seldom allows.
+
+What did I learn?
+
+Why did this principle matter?
+
+What assumptions did I bring to this subject?
+
+How has my understanding changed?
+
+What questions remain unanswered?
+
+Such questions deepen learning.
+
+They require the student not merely to remember information but to
+examine the growth of understanding itself.
+
+This habit also cultivates intellectual honesty.
+
+The reflective student becomes increasingly aware of the difference
+between familiarity and understanding.
+
+A concept that once appeared simple may reveal unexpected complexity.
+
+An opinion once held confidently may require revision.
+
+A conclusion once accepted without question may deserve renewed
+examination.
+
+Such discoveries should not discourage the student.
+
+They are signs of intellectual growth.
+
+Every discipline possesses moments at which previous understanding gives
+way to deeper insight.
+
+Legal education is no exception.
+
+Indeed, this process continues throughout professional life.
+
+Experienced lawyers frequently discover that years of practice have
+altered their understanding of principles first encountered in law
+school.
+
+Experience illuminates what study alone cannot always reveal.
+
+Reflection therefore serves as a bridge between knowledge and wisdom.
+
+Knowledge answers the question,
+
+"What have I learned?"
+
+Reflection asks,
+
+"What has this learning changed within me?"
+
+The distinction is profound.
+
+A student may complete an entire course without allowing it to shape the
+way of thinking.
+
+Another may study the same material and emerge with greater patience,
+greater precision, greater humility, and greater judgment.
+
+The difference often lies in the habit of reflection.
+
+For this reason, the thoughtful student regularly returns to earlier
+notes, earlier cases, and earlier conclusions.
+
+Not merely to remember them.
+
+But to reconsider them.
+
+Growth is often measured not by discovering entirely new ideas, but by
+seeing familiar ideas with greater clarity.
+
+The student who cultivates this habit gradually discovers that legal
+education is not simply changing what is known.
+
+It is changing the person who knows it.
+
+## The Discipline of Revision
+
+One of the greatest obstacles to learning is the belief that first
+thoughts are necessarily the best thoughts.
+
+They seldom are.
+
+The first reading of a case rarely reveals every important principle.
+
+The first draft of an essay rarely expresses every idea with complete
+clarity.
+
+The first understanding of a legal doctrine is often incomplete.
+
+This should not surprise the student.
+
+Understanding matures through revision.
+
+For this reason, revision occupies a central place in legal education.
+
+It is not merely a technique for preparing examinations.
+
+It is a discipline by which understanding is gradually refined.
+
+Every return to a familiar subject presents an opportunity to discover
+something previously unnoticed.
+
+A passage once overlooked acquires new significance.
+
+A principle once memorized becomes fully understood.
+
+A difficult judgment begins to reveal the elegance of its reasoning.
+
+Such discoveries are possible because the student has changed.
+
+The text remains the same.
+
+The reader does not.
+
+This is one of the quiet rewards of disciplined study.
+
+Good books continue to teach because thoughtful readers continue to
+grow.
+
+The same principle applies to legal writing.
+
+Revision is not simply the correction of grammatical mistakes.
+
+Its deeper purpose is the refinement of thought.
+
+Unnecessary words are removed.
+
+Weak arguments are strengthened.
+
+Unsupported assertions are replaced with careful reasoning.
+
+Ideas become clearer because thinking has become clearer.
+
+The thoughtful student therefore welcomes revision rather than avoiding
+it.
+
+Revision is not an admission of inadequacy.
+
+It is evidence of intellectual seriousness.
+
+The lawyer who refuses to reconsider an argument risks defending error.
+
+The lawyer who willingly revises an argument demonstrates respect for
+truth.
+
+This habit extends beyond writing.
+
+Students revise their notes.
+
+Lawyers revise their opinions.
+
+Courts reconsider earlier decisions.
+
+Legislatures amend statutes.
+
+The law itself develops through continual revision.
+
+The student who understands this no longer regards revision as an
+unpleasant necessity.
+
+It becomes an ordinary part of learning.
+
+Indeed, the willingness to revise may be one of the clearest signs that
+understanding is deepening.
+
+There is a profound difference between changing one's mind carelessly
+and changing it thoughtfully.
+
+The first reflects uncertainty.
+
+The second reflects growth.
+
+For this reason, the thoughtful student measures progress not by how
+rarely earlier conclusions require revision, but by how faithfully new
+understanding is allowed to improve them.
+
+Legal education is therefore not the pursuit of perfect first answers.
+
+It is the disciplined pursuit of better ones.
+
+The student who embraces this habit gradually discovers that revision is
+not merely a stage of learning.
+
+It is one of its highest expressions.
