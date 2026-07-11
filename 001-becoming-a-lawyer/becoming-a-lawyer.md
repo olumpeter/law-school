@@ -6,13 +6,9 @@
 
 ---
 
-# Part I
+## Part I — A Philosophy of Legal Education
 
-# A Philosophy of Legal Education
-
-## Chapter 1
-
-# A Personal Philosophy of Legal Education
+### Chapter 1 — A Personal Philosophy of Legal Education
 
 Every profession requires knowledge.
 
@@ -228,9 +224,7 @@ undertake the lifelong work of becoming a lawyer.
 
 That work begins now.
 
-## Chapter 2
-
-# The Visible Curriculum and the Invisible Curriculum
+### Chapter 2 — The Visible Curriculum and the Invisible Curriculum
 
 Every law student is familiar with the visible curriculum.
 
@@ -451,9 +445,7 @@ The chapters that follow explore that curriculum one habit at a time.
 For it is through ordinary habits, consistently practised, that
 extraordinary lawyers are gradually formed.
 
-## Chapter 3
-
-# Knowledge, Understanding, and Judgment
+### Chapter 3 — Knowledge, Understanding, and Judgment
 
 Every profession begins with knowledge.
 
@@ -677,9 +669,7 @@ wisdom, fairness, and integrity.
 
 That is the true ambition of legal education.
 
-## Chapter 4
-
-# Thinking Like a Lawyer
+### Chapter 4 — Thinking Like a Lawyer
 
 One of the first discoveries a law student makes is that legal education
 is unlike any education previously experienced.
@@ -874,9 +864,7 @@ clarity, fairness, patience, and disciplined reason.
 That habit, once formed, becomes one of the lawyer's greatest
 possessions.
 
-## Chapter 5
-
-# The Lifelong Student
+### Chapter 5 — The Lifelong Student
 
 One of the greatest misconceptions about professional education is that
 it has a finishing point.
@@ -1083,13 +1071,9 @@ is true, just, and right.
 
 The lawyer who remains a student never truly stops becoming a lawyer.
 
-# Part II
+## Part II — The Discipline of Legal Study
 
-# The Discipline of Legal Study
-
-## Chapter 6
-
-# Reading the Law
+### Chapter 6 — Reading the Law
 
 Every law student expects to read.
 
@@ -1291,9 +1275,7 @@ For lawyers are not formed merely by the number of books they read.
 
 They are formed by the seriousness with which they read them.
 
-## Chapter 7
-
-# Reading Cases
+### Chapter 7 — Reading Cases
 
 No document occupies a more important place in legal education than the
 judicial decision.
@@ -1504,9 +1486,7 @@ judicial decision becomes more than a legal authority.
 
 It becomes a teacher.
 
-## Chapter 8
-
-# Reading Statutes
+### Chapter 8 — Reading Statutes
 
 If judicial decisions reveal how the law is applied, statutes reveal how
 the law is declared.
@@ -1717,9 +1697,7 @@ For lawyers do not merely work with statutes.
 
 They learn to think through them.
 
-## Chapter 9
-
-# Reading Textbooks
+### Chapter 9 — Reading Textbooks
 
 The first books that most law students purchase are textbooks.
 
@@ -1945,9 +1923,7 @@ For the thoughtful reader eventually discovers that the value of a
 textbook lies not in the number of pages completed, but in the clarity
 of mind with which those pages have been understood.
 
-## Chapter 10
-
-# Reading Academic Articles
+### Chapter 10 — Reading Academic Articles
 
 As students progress through legal education, they gradually encounter a
 different kind of legal writing.
@@ -2152,9 +2128,7 @@ continue to shape the development of the law.
 That understanding is one of the distinguishing marks of a mature legal
 education.
 
-## Chapter 11
-
-# Taking Notes
+### Chapter 11 — Taking Notes
 
 Every student takes notes.
 
@@ -2363,9 +2337,7 @@ thoughtful reflection will remain.
 Those habits, more than any particular page of notes, become part of the
 lawyer's professional character.
 
-## Chapter 12
-
-# Building a Personal Knowledge System
+### Chapter 12 — Building a Personal Knowledge System
 
 One of the greatest advantages available to a law student is also one of
 the easiest to overlook.
@@ -2585,9 +2557,7 @@ That progression is the true architecture of legal education.
 
 A personal knowledge system is simply the workshop in which
 
-## Chapter 13
-
-# Time, Discipline, and the Daily Habit of Study
+### Chapter 13 — Time, Discipline, and the Daily Habit of Study
 
 Every law student receives the same twenty-four hours.
 
@@ -2805,9 +2775,7 @@ Yet together they accomplish something remarkable.
 They gradually transform a student of law into a lawyer who has learned
 how to continue learning for the rest of life.
 
-## Chapter 14
-
-# Revision
+### Chapter 14 — Revision
 
 Many students believe that learning occurs when a subject is studied for
 the first time.
@@ -2999,9 +2967,7 @@ Not because yesterday's learning was inadequate.
 
 But because today's understanding is capable of making it better.
 
-## Chapter 15
-
-# Memory and Understanding
+### Chapter 15 — Memory and Understanding
 
 Every law student wishes to remember more.
 
@@ -3197,9 +3163,7 @@ Not because memory was the principal objective.
 
 But because understanding proved to be its most reliable foundation.
 
-## Chapter 16
-
-# Legal Research
+### Chapter 16 — Legal Research
 
 One of the defining characteristics of a lawyer is not the ability to
 remember every legal rule.
@@ -3450,9 +3414,7 @@ For responsible legal advice begins not with confident opinion.
 
 It begins with careful research.
 
-## Chapter 17
-
-# Artificial Intelligence as a Study Companion
+### Chapter 17 — Artificial Intelligence as a Study Companion
 
 Every generation of law students has benefited from new tools.
 
@@ -3672,9 +3634,7 @@ The lawyer's greatest instrument has never been the newest tool.
 It has always been the disciplined mind by which every tool is wisely
 used.
 
-## Chapter 18
-
-# Preparing for Examinations
+### Chapter 18 — Preparing for Examinations
 
 Every law student eventually faces examinations.
 
@@ -3903,13 +3863,9 @@ The examination eventually ends.
 
 The education of the lawyer does not.
 
-# Part III
+## Part III — The Formation of the Lawyer
 
-# The Formation of the Lawyer
-
-## Chapter 19
-
-# Integrity
+### Chapter 19 — Integrity
 
 Every profession depends upon trust.
 
@@ -4105,9 +4061,7 @@ to knowledgeable people.
 
 But to trustworthy ones.
 
-## Chapter 20
-
-# Responsibility
+### Chapter 20 — Responsibility
 
 The law is often described as a system of rights.
 
@@ -4328,9 +4282,7 @@ It is not merely acquiring the privilege of practising law.
 It is gradually becoming a person capable of carrying the responsibilities
 that such a privilege inevitably brings.
 
-## Chapter 21
-
-# Professional Character
+### Chapter 21 — Professional Character
 
 The law may be learned from books.
 
@@ -4554,9 +4506,7 @@ not merely to practise law competently.
 
 But to honour the profession faithfully throughout an entire lifetime.
 
-## Chapter 22
-
-# Curiosity
+### Chapter 22 — Curiosity
 
 Every lawyer begins with questions.
 
@@ -4743,9 +4693,7 @@ The lawyer who preserves that habit never merely practises the law.
 
 The lawyer continues discovering it.
 
-## Chapter 23
-
-# Excellence
+### Chapter 23 — Excellence
 
 Every profession possesses standards.
 
@@ -4971,9 +4919,7 @@ career will never cease becoming better.
 
 That is the true meaning of professional excellence.
 
-## Chapter 24
-
-# Wisdom
+### Chapter 24 — Wisdom
 
 Knowledge is acquired.
 
@@ -5184,13 +5130,9 @@ by wisdom.
 That is among the highest ambitions to which legal education can
 aspire.
 
-# Part IV
+## Part IV — A Lifetime in the Law
 
-# A Lifetime in the Law
-
-## Chapter 25
-
-# Service
+### Chapter 25 — Service
 
 Every profession exists to serve.
 
@@ -5396,9 +5338,7 @@ Character shaped the person.
 
 Service gives both their highest meaning.
 
-## Chapter 26
-
-# Reputation
+### Chapter 26 — Reputation
 
 A lawyer begins building a professional reputation long before meeting
 the first client.
@@ -5608,9 +5548,7 @@ Not for the sake of recognition.
 But because the legal profession deserves lawyers whose names become
 synonymous with trust.
 
-## Chapter 27
-
-# The Lawyer and Society
+### Chapter 27 — The Lawyer and Society
 
 No lawyer practises in isolation.
 
@@ -5796,9 +5734,7 @@ career.
 
 But to strengthen the society that entrusted the law to its care.
 
-## Chapter 28
-
-# The Lawyer's Legacy
+### Chapter 28 — The Lawyer's Legacy
 
 Every lawyer leaves something behind.
 
@@ -6010,9 +5946,7 @@ achievement is not simply to leave behind successful cases.
 It is to leave behind a stronger profession than the one that was first
 entered.
 
-## Chapter 29
-
-# Graduation Is the Beginning
+### Chapter 29 — Graduation Is the Beginning
 
 Every law student imagines graduation.
 
@@ -6216,9 +6150,7 @@ For the finest lawyers never cease being students.
 And the day of graduation is simply the day upon which that lifelong
 education begins in earnest.
 
-## Chapter 30
-
-# The Lifelong Lawyer
+### Chapter 30 — The Lifelong Lawyer
 
 There comes a moment in every profession when experience begins to
 replace novelty.
@@ -6446,9 +6378,7 @@ For becoming a lawyer is not merely the work of law school.
 
 It is the work of an entire lifetime.
 
-## Chapter 31
-
-# Becoming a Lawyer
+### Chapter 31 — dBecoming a Lawyer
 
 This manuscript began with a simple conviction.
 
@@ -6698,9 +6628,9 @@ be.
 
 The gradual formation of a lawyer.
 
-# Epilogue
+## Epilogue
 
-# The First Day
+### The First Day
 
 If you are reading this before your first day of law school, then we
 stand together at the beginning of the same journey.
