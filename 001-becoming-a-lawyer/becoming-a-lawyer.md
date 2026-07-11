@@ -6378,7 +6378,7 @@ For becoming a lawyer is not merely the work of law school.
 
 It is the work of an entire lifetime.
 
-### Chapter 31 — dBecoming a Lawyer
+### Chapter 31 — Becoming a Lawyer
 
 This manuscript began with a simple conviction.
 
