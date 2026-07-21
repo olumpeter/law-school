@@ -1,4 +1,4 @@
-# Environment and Land Court (ELC) Study Notes
+# Courtroom Observations and Legal Principles
 
 These notes summarize practical principles of Kenyan civil procedure as
 encountered in Environment and Land Court (ELC) proceedings. They combine
